@@ -12,7 +12,7 @@ Updated: 27th July 2023 16:15 PM GMT
 
 # Tutorials
 
-### W3Schools
+### W3Schools (HTML/CSS)  
 
 - https://www.w3schools.com/css/css_rwd_intro.asp
 
