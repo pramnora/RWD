@@ -1,7 +1,7 @@
 # RWD
 RWD/Responsive Web Design
 
-Created: 27th July 2023 16:15 PM GMT
+Created: 27th July 2023 16:15 PM GMT  
 Updated: 27th July 2023 16:15 PM GMT
 
 -----
